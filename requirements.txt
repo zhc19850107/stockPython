@@ -1,0 +1,16 @@
+beautifulsoup4==4.9.1
+bs4==0.0.1
+certifi==2020.4.5.1
+chardet==3.0.4
+et-xmlfile==1.0.1
+idna==2.9
+jdcal==1.4.1
+lxml==4.5.1
+openpyxl==3.0.3
+requests==2.23.0
+simplejson==3.17.0
+six==1.15.0
+soupsieve==2.0.1
+tushare==1.2.59
+urllib3==1.25.9
+websocket-client==0.57.0
